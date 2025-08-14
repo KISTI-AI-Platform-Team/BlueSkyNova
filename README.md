@@ -10,7 +10,7 @@ In particular, we have developed three key software products: Dorea-pdf-ai (an i
 Guided by the BLUESKY, the team aims to go beyond learning, advancing toward understanding and evolution to integrate knowledge and drive innovation.
 
 ## 📄 KISTI Dorea-PDF-AI (https://github.com/Byun11/Dorea-pdf-ai)
-- An intelligent PDF understanding and retrieval tool developed by the AI Platform Team at the KISTI Large-scale AI Research Center.
+- An intelligent PDF-based ChatBot developed by the AI Platform Team.
 - It automates document layout analysis, distinguishing tables, images, and text, with multilingual OCR support (Korean, English, Japanese, Chinese).
 - Features include interactive region-based AI conversations, support for OpenAI GPT and local LLMs (Ollama), real-time streaming responses, and conversation history storage.
 
