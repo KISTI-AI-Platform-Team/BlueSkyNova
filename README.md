@@ -4,6 +4,11 @@ Our team at the KISTI Large-scale AI Research Center strives to develop and oper
 Its key software products include <strong>KISTI MCP</strong> (Model Context Protocol server) and <strong>SpectraBench</strong> (an intelligent LLM benchmarking system), both of which support the utilization of scientific and technological data as well as AI performance optimization.  
 Guided by the <a href="#what-is-the-bluesky"><strong>BLUESKY</strong></a>, the team aims to go beyond learning, advancing toward understanding and evolution to integrate knowledge and drive innovation.
 
+## 📄 KISTI Dorea-pdf-ai (https://github.com/Byun11/Dorea-pdf-ai)
+- An intelligent PDF understanding and retrieval tool developed by the AI Platform Team at the KISTI Large-scale AI Research Center.
+- It automates document layout analysis, distinguishing tables, images, and text, with multilingual OCR support (Korean, English, Japanese, Chinese).
+- Features include interactive region-based AI conversations, support for OpenAI GPT and local LLMs (Ollama), real-time streaming responses, and conversation history storage.
+
 ## 📡 KISTI MCP (https://github.com/ansua79/kisti-mcp/releases/tag/v0.1.7 )
 - The first MCP (Model Context Protocol)-based server released by KISTI, providing access to science and technology information through OpenAPI integration.
 - This version offers seven ScienceON APIs related to papers, patents, and national R&D reports.
