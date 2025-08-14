@@ -9,11 +9,11 @@ Guided by the <a href="#what-is-the-bluesky"><strong>BLUESKY</strong></a>, the t
 - It automates document layout analysis, distinguishing tables, images, and text, with multilingual OCR support (Korean, English, Japanese, Chinese).
 - Features include interactive region-based AI conversations, support for OpenAI GPT and local LLMs (Ollama), real-time streaming responses, and conversation history storage.
 
-## 📡 KISTI MCP (https://github.com/ansua79/kisti-mcp/releases/tag/v0.1.7 )
+## 📡 KISTI MCP (https://github.com/ansua79/kisti-mcp/releases/tag/v0.1.7)
 - The first MCP (Model Context Protocol)-based server released by KISTI, providing access to science and technology information through OpenAPI integration.
 - This version offers seven ScienceON APIs related to papers, patents, and national R&D reports.
 
-## ⚙️ KISTI SpectraBench (https://github.com/gwleee/SpectraBench )
+## ⚙️ KISTI SpectraBench (https://github.com/gwleee/SpectraBench)
 - An intelligent LLM benchmarking tool developed by the AI Platform Team at the KISTI Large-scale AI Research Center.
 - It maximizes evaluation efficiency and stability through machine learning-based optimal scheduling and adaptive resource management.
 - Features include performance improvement based on usage, seamless switching between test and production environments, and a three-stage evolution structure (Intelligent → Hybrid → Adaptive).
