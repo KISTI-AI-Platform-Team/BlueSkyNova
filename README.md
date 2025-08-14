@@ -17,7 +17,7 @@ Guided by the BLUESKY, the team aims to go beyond learning, advancing toward und
 - This version offers seven ScienceON APIs related to papers, patents, and national R&D reports.
 
 ## ⚙️ KISTI SpectraBench (https://github.com/gwleee/SpectraBench)
-- An intelligent LLM benchmarking tool developed by the AI Platform Team at the KISTI Large-scale AI Research Center.
+- An intelligent LLM benchmarking tool developed by the AI Platform Team.
 - It maximizes evaluation efficiency and stability through machine learning-based optimal scheduling and adaptive resource management.
 - Features include performance improvement based on usage, seamless switching between test and production environments, and a three-stage evolution structure (Intelligent → Hybrid → Adaptive).
 
