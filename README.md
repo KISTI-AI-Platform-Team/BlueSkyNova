@@ -2,7 +2,7 @@
 
 <img src="bluesky-logo-wide.png" alt="KISTI AI Platform Team" height=360 style="margin-right: 20px;">
 
-<img src="Team_Photo_20205.JPG" alt="KISTI AI Platform Team" height=360 style="margin-right: 20px;">
+<img src="Team_Photo_2025.JPG" height=360 style="margin-right: 20px;">
 
 
 Our team at the KISTI Large-scale AI Research Center strives to develop and operate AI models and agent service technologies tailored for the science and technology domain.
