@@ -1,26 +1,8 @@
 # KISTI AI Platform Team
 
-<table style="border-collapse: collapse; border: none; width: 100%; table-layout: fixed;">
-  <tr style="border: none;">
-    <!-- 좌측 (3) -->
-    <td style="width: 30%; border: none; vertical-align: middle; text-align: center; padding: 8px;">
-      <img src="bluesky-logo-wide.png" alt="KISTI AI Platform Team" 
-           style="max-width: 90%; height: auto; border-radius: 10px; box-shadow: 0 3px 10px rgba(0,0,0,0.12);">
-      <div style="margin-top: 6px; font-size: 0.85em; font-style: italic; color: #555;">
-        KISTI AI Platform Team
-      </div>
-    </td>
 
-    <!-- 우측 (7) -->
-    <td style="width: 70%; border: none; vertical-align: middle; text-align: center; padding: 8px;">
-      <img src="Team_Photo_2025.JPG" alt="Team Photo 2025" 
-           style="max-width: 95%; height: auto; border-radius: 10px; box-shadow: 0 3px 10px rgba(0,0,0,0.12);">
-      <div style="margin-top: 6px; font-size: 0.85em; font-style: italic; color: #555;">
-        Team Photo 2025
-      </div>
-    </td>
-  </tr>
-</table>
+| ![KISTI AI Platform Team](bluesky-logo-wide.png) <br/> *KISTI AI Platform Team* | ![Team Photo 2025](Team_Photo_2025.JPG) <br/> *Team Photo 2025* |
+|:--------------------------------------------:|:--------------------------------------------------------------:|
 
 저희 KISTI 대규모 AI 연구센터 팀은 과학기술 분야에 특화된 AI 모델 및 에이전트 서비스 기술을 개발하고 운영하는 것을 목표로 하고 있습니다.
 특히, 저희는 세 가지 핵심 소프트웨어 제품을 개발하였습니다: Dorea-PDF-AI(지능형 PDF 이해 및 검색 도구), KISTI MCP(Model Context Protocol 서버), 그리고 KISTI SpectraBench(지능형 LLM 벤치마킹 시스템)입니다.
