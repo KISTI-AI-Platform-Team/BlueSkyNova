@@ -1,19 +1,21 @@
 # KISTI AI Platform Team
 
-<table style="border-collapse: collapse; border: none; width: 100%;">
+<table style="border-collapse: collapse; border: none; width: 100%; table-layout: fixed;">
   <tr style="border: none;">
     <!-- 좌측 (3) -->
-    <td style="width: 30%; border: none; vertical-align: middle; text-align: center; padding: 10px;">
-      <img src="bluesky-logo-wide.png" alt="KISTI AI Platform Team" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-      <div style="margin-top: 8px; font-size: 0.9em; font-style: italic; color: #555;">
+    <td style="width: 30%; border: none; vertical-align: middle; text-align: center; padding: 8px;">
+      <img src="bluesky-logo-wide.png" alt="KISTI AI Platform Team" 
+           style="max-width: 90%; height: auto; border-radius: 10px; box-shadow: 0 3px 10px rgba(0,0,0,0.12);">
+      <div style="margin-top: 6px; font-size: 0.85em; font-style: italic; color: #555;">
         KISTI AI Platform Team
       </div>
     </td>
 
     <!-- 우측 (7) -->
-    <td style="width: 70%; border: none; vertical-align: middle; text-align: center; padding: 10px;">
-      <img src="Team_Photo_2025.JPG" alt="Team Photo 2025" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-      <div style="margin-top: 8px; font-size: 0.9em; font-style: italic; color: #555;">
+    <td style="width: 70%; border: none; vertical-align: middle; text-align: center; padding: 8px;">
+      <img src="Team_Photo_2025.JPG" alt="Team Photo 2025" 
+           style="max-width: 95%; height: auto; border-radius: 10px; box-shadow: 0 3px 10px rgba(0,0,0,0.12);">
+      <div style="margin-top: 6px; font-size: 0.85em; font-style: italic; color: #555;">
         Team Photo 2025
       </div>
     </td>
