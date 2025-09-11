@@ -15,7 +15,7 @@ AI 플랫폼 팀에서 개발한 지능형 PDF 기반 챗봇입니다. 문서 �
 
 
 ## 📡 KISTI MCP (https://github.com/ansua79/kisti-mcp/)
-KISTI에서 최초로 공개한 MCP(Model Context Protocol) 기반 서버로, OpenAPI 연동을 통해 과학기술 정보를 제공합니다.
+KISTI에서 공개한 MCP(Model Context Protocol) 기반 서버로, OpenAPI 연동을 통해 과학기술 정보를 제공합니다.
 이번 버전에서는 논문, 특허, 국가 R&D 보고서와 관련된 7개의 ScienceON API를 제공합니다.
 
 
