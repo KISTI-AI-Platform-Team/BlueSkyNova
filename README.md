@@ -1,8 +1,7 @@
 # KISTI AI Platform Team
 
-<img src="bluesky-logo-wide.png" alt="KISTI AI Platform Team" height=360 style="margin-right: 20px;">
-
 <p align="center">
+  <img src="bluesky-logo-wide.png" alt="KISTI AI Platform Team" height=360 style="margin-right: 20px;">
   <img src="Team_Photo_2025.JPG" height="360" style="margin-right: 20px;">
 </p>
 
