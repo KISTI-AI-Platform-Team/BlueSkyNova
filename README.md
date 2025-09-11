@@ -2,9 +2,9 @@
 
 <img src="bluesky-logo-wide.png" alt="KISTI AI Platform Team" height=360 style="margin-right: 20px;">
 
-<div style="display: flex; justify-content: center;">
+<p align="center">
   <img src="Team_Photo_2025.JPG" height="360" style="margin-right: 20px;">
-</div>
+</p>
 
 Our team at the KISTI Large-scale AI Research Center strives to develop and operate AI models and agent service technologies tailored for the science and technology domain.
 In particular, we have developed three key software products: **Dorea-PDF-AI** (an intelligent PDF understanding and retrieval tool), **KISTI MCP** (Model Context Protocol server), and **KISTI SpectraBench** (an intelligent LLM benchmarking system), all of which support the utilization of scientific and technological data as well as AI performance optimization.
