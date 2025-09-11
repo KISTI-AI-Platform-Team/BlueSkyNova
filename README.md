@@ -12,6 +12,9 @@
 # 📄 KISTI DOREA-PDF-AI (https://github.com/Byun11/Dorea-pdf-ai)
 AI 플랫폼 팀에서 개발한 지능형 PDF 기반 챗봇입니다. 문서 레이아웃 분석을 자동화하여 표, 이미지, 텍스트를 구분하고, 다국어 OCR(한국어, 영어, 일본어, 중국어)을 지원합니다.
 주요 기능으로는 영역 기반 대화형 AI, OpenAI GPT 및 로컬 LLM(Ollama) 지원, 실시간 스트리밍 응답, 대화 기록 저장 등이 있습니다.
+| ![Preview](https://github.com/Byun11/Dorea-pdf-ai/blob/main/assets/images/preview-chat.png?raw=true) | [![YouTube Demo](https://img.youtube.com/vi/xEo9D5tuc4E/0.jpg)](https://www.youtube.com/watch?v=xEo9D5tuc4E) |
+|:-------------------------------------------------------------:|:------------------------------------------------------------:|
+| *Dorea-PDF-AI 미리보기* | *시연 영상 (YouTube)* |
 
 # 📡 KISTI MCP (https://github.com/ansua79/kisti-mcp/releases/tag/v0.1.7)
 KISTI에서 최초로 공개한 MCP(Model Context Protocol) 기반 서버로, OpenAPI 연동을 통해 과학기술 정보를 제공합니다.
