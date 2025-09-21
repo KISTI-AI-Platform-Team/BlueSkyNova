@@ -6,7 +6,7 @@
 저희 KISTI 대규모 AI 연구센터 팀은 과학기술 분야에 특화된 AI 모델 및 에이전트 서비스 기술을 개발하고 운영하는 것을 목표로 하고 있습니다. 특히, 저희는 세 가지 핵심 소프트웨어 제품을 개발하였습니다: Dorea-PDF-AI(지능형 PDF 이해 및 검색 도구), KISTI MCP(Model Context Protocol 서버), 그리고 KISTI SpectraBench(지능형 LLM 벤치마킹 시스템)입니다. 이들 모두는 과학기술 데이터 활용과 AI 성능 최적화를 지원합니다. [**BLUESKY**](#bluesky란-무엇인가)의 비전을 바탕으로, 저희 팀은 단순한 학습을 넘어 이해와 진화를 향해 나아가며 지식을 통합하고 혁신을 이끌어가는 것을 목표로 합니다.
 
 ## Updates (2025.9.21)
-- [기술보고서: 'AI for Science를 위한 과학기술 AI 에이전트 기술 동향' 공개] (기술보고서_AI for Science를 위한 과학기술 AI 에이전트 기술 동향.pdf)
+- [기술보고서: 'AI for Science를 위한 과학기술 AI 에이전트 기술 동향' 공개](%EA%B8%B0%EC%88%A0%EB%B3%B4%EA%B3%A0%EC%84%9C_AI%20for%20Science%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%20AI%20%EC%97%90%EC%9D%B4%EC%A0%A0%ED%8A%B8%20_)
 
 
 ## 📄 KISTI DOREA-PDF-AI (https://github.com/Byun11/Dorea-pdf-ai)
