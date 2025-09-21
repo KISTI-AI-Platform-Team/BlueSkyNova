@@ -8,6 +8,8 @@
 # News (2025.9.21)
 - [기술보고서: 'AI for Science를 위한 과학기술 AI 에이전트 기술 동향' 공개](./AI_Tech_Report_20250921.pdf), 곽상환 박사
 
+# Our Developing Systems and Techniques (partly, open to the public)
+
 ## 🤖 AIDE (AI Development Environment, LLMOps)
 - '24-'25년도 걸쳐 LLM 및 Agent 개발지원을 위한 웹 기반 LLMOps 시스템 개발
 - 학습데이터 생성(자동)/관리, 모델훈련(SFT, Instruction/Preference Turning), 모델평가(벤치마크), RAG 기능 포함
