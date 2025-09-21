@@ -1,4 +1,4 @@
-# KISTI AI Platform Team
+# KISTI AI Platform Team (BLUESKY)
 
 | ![KISTI AI Platform Team](bluesky-logo-wide.png) <br/> *KISTI AI Platform Team* | ![Team Photo 2025](Team_Photo_2025.JPG) <br/> *Team Photo 2025* |
 |:--------------------------------------------:|:--------------------------------------------------------------:|
