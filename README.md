@@ -33,6 +33,7 @@ AI 플랫폼 팀에서 개발한 지능형 LLM 벤치마킹 도구입니다. 머
 사용 기반 성능 향상, 테스트와 운영 환경 간의 원활한 전환, 3단계 진화 구조(Intelligent → Hybrid → Adaptive)를 특징으로 합니다.
 
 
-## BLUESKY란 무엇인가?
+
+# BLUESKY란 무엇인가?
 **BLUESKY**: Beyond Learning, Understanding & Evolving — Synergizing Knowledge to Yield innovation  
 BLUESKY는 저희 팀의 핵심 모토로, 지식의 시너지를 통해 학습을 넘어 이해와 진화, 그리고 혁신으로 나아가고자 하는 저희의 다짐을 담고 있습니다.
