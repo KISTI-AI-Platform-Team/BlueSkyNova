@@ -10,7 +10,9 @@ KISTI 초거대AI연구센터 AI플랫폼팀은 과학기술 분야에 특화된
 # News 
 - [기술보고서: 'AI for Science를 위한 과학기술 AI 에이전트 기술 동향' 공개](./AI_Tech_Report_20250921.pdf), 곽상환 박사 (2025.9.21)
 
-# Our Developing Systems and Techniques (partly, open to the public)
+
+
+# Our Work (partly, open to the public)
 
 ## 🤖 AIDE (AI Development Environment, LLMOps)
 - '24-'25년도 걸쳐 LLM 및 Agent 개발지원을 위한 웹 기반 LLMOps 시스템 개발
