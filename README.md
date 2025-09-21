@@ -12,7 +12,7 @@ KISTI 초거대AI연구센터 AI플랫폼팀은 과학기술 분야에 특화된
 
 
 
-# Our Work (partly, open to the public)
+# Our Work (partly open to the public)
 
 ## 🤖 AIDE (AI Development Environment, LLMOps)
 - '24-'25년도 걸쳐 LLM 및 Agent 개발지원을 위한 웹 기반 LLMOps 시스템 개발
